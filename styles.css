@@ -1,0 +1,52 @@
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .bungee-spice-regular {
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+header {
+    background-color: rgb(49, 49, 49);
+    padding: 2%;
+    margin: 0%;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+    margin: 0%;
+    padding: 0%;
+    background-color: aliceblue;
+    line-height: 2em;
+}
+
+main {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+footer {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+h1 {
+    font-family: "Bungee Spice", sans-serif;
+    font-size: 400%;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 300%;
+    margin-left: 0%;
+}
+
+iframe {
+    max-width: 100%;
+}
+
